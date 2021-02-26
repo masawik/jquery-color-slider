@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jquery.iml" filepath="$PROJECT_DIR$/.idea/jquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jquery-color-slider.iml" filepath="$PROJECT_DIR$/.idea/jquery-color-slider.iml" />
     </modules>
   </component>
 </project>
